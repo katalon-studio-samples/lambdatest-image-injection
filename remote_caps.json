@@ -1,0 +1,17 @@
+{
+  "remoteWebDriverType": "Appium",
+  "project": "LambdaTest Image Injection",
+  "isRealMobile": true,
+  "video": true,
+  "deviceName": "iPhone 12",
+  "build": "LambdaTest Image Injection",
+  "enableImageInjection": true,
+  "platformVersion": "14",
+  "remoteMobileDriver": "IOS_DRIVER",
+  "name": "Katalon Example",
+  "visual": true,
+  "autoGrantPermissions": true,
+  "remoteWebDriverUrl": "",
+  "platformName": "ios",
+  "autoAcceptAlerts": true
+}
